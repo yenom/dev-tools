@@ -32,11 +32,13 @@
 
 ## REST API
 ### MainNet
+- [Yenom](https://bch-insight.yenom.tech/api/)
 - [Bitcoin.com](https://rest.bitcoin.com/)
 - [coinbase](https://api.coinbase.com/v2/)
 - [bitpay](https://bch-insight.bitpay.com/api)
 
 ### TestNet
+- [Yenom](https://tbch-insight.yenom.tech/api/)
 - [Bitcoin.com](https://trest.bitcoin.com/)
 - [bitpay](https://test-bch-insight.bitpay.com/api)
 
